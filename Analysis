@@ -1,6 +1,1 @@
-Que-1] 	How do you relate confirmed cases with deaths, recovered cases, active cases, testing rate and people hospitalized? Find the variations of all these attributes with respect to confirmed cases.
-  ![image](https://github.com/Vaishnavitorgal/Covid-Data-Analysis/assets/83570351/bcfb6f95-05d0-48ab-bb13-95acf2152bd4) <br />
-  Inference:  We observe that Texas has large number of confirmed cases constituting about 17% to the total count, followed by other states.
-With this observation we try to find the relationship between confirmed cases, deaths, active cases and recovered.
-
 
